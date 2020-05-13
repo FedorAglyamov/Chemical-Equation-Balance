@@ -1,5 +1,5 @@
 # Simple program for balancing chemical equations
-# v1.0
+# v0.9
 
 
 # Imports
